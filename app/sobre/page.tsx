@@ -29,7 +29,7 @@ export default function AboutPage() {
                 Focus
               </p>
               <p className="leading-7 text-neutral-700">
-                Technical systems, interactive objects, prototyping,
+                Industrial design, prototyping, mechanics,
                 electronics, physical interfaces, and structured project
                 development.
               </p>
@@ -39,7 +39,7 @@ export default function AboutPage() {
           <div className="space-y-10">
             <div className="space-y-6 text-lg leading-8 text-neutral-700">
               <p>
-                I am interested in creating systems, objects, and interfaces
+                I am interested in creating systems, usable objects, and interfaces
                 where engineering, design, experimentation, and problem solving
                 intersect in a coherent and functional way.
               </p>
@@ -53,9 +53,8 @@ export default function AboutPage() {
               <p>
                 Rather than treating projects only as final results, I approach
                 them as evolving structures shaped by decisions, constraints,
-                testing, failure, adjustment, and refinement. For me, the value
-                of a project is just as much in its internal logic as in its
-                final form.
+                testing, failure, adjustment, and refinement. The real value of
+                a project is the learning path that made it work.
               </p>
 
               <p>
